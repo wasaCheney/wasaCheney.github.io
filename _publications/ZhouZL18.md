@@ -1,7 +1,7 @@
 ---
 title: "Lp-WGAN: Using Lp-norm normalization to stabilize Wasserstein generative adversarial networks"
 collection: publications
-permalink: /publication/ZhouZL18
+permalink: /publications/ZhouZL18
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018
 venue: 'Knowledge-Based Systems'
