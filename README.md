@@ -1,9 +1,11 @@
 # Changsheng Zhou's Personal Homepage
 
-*Cheney* is my English name,
-*wasa* is my nickname used in some social networking accounts,
-Website: [https://wasaCheney.github.io](https://wasaCheney.github.io)
-It is built based on an academic template, and the following gives details.
+*Cheney* is my English name
+
+*wasa* is my nickname used in some social networking accounts
+
+The website: [https://wasaCheney.github.io](https://wasaCheney.github.io)
+is based on an academic template, and the following gives details.
 
 ------------------------------------------
 

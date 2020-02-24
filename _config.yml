@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Changsheng"
   avatar           : "profile_cheney.jpg"
-  bio              : "Ph.D. student with the school of mathematics and statistics in Xi'an Jiao Tong University"
+  bio              : "Ph.D. student with the school of mathematics and statistics in XJTU"
   location         : "Shaanxi, Xi'an, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -112,8 +112,6 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  # add by Cheney
-  bilibili         : "https://space.bilibili.com/22239848"
   xing             :
   youtube          :
   wikipedia        :
@@ -180,6 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  # add by Cheney
   projects:
     output: true
     permalink: /:collection/:path/
@@ -270,7 +269,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
