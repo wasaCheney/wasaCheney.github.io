@@ -11,18 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Statistics, Xi'an Jiaotong University, 2014
+* M.S. phase in Applied Mathematics, Xi'an Jiaotong University, 2016
+* Ph.D. phase in Statistics, Xi'an Jiaotong University, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Fall 2018: Teaching Assistant
+  * Xi'an Jiaotong University
+  * Information Theory
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Jiangshe Zhang
 
-* Fall 2015: Research Assistant
+* Fall 2015: Teaching Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -46,6 +47,12 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching

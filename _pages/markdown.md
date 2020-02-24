@@ -16,6 +16,7 @@ redirect_from:
   * _publications/
   * _portfolio/
   * _posts/
+  * _projects/
   * _teaching/
   * _talks/
 * Footer: _includes/footer.html
