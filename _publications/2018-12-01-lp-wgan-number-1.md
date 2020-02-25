@@ -1,0 +1,15 @@
+---
+title: "Lp-WGAN: Using Lp-norm normalization to stabilize Wasserstein generative adversarial networks"
+collection: publications
+permalink: /publication/2018-12-01-lp-wgan-number-1
+excerpt: 'This paper is about stabilizing WGAN by Lp norm.'
+date: 2018-12-01
+venue: 'Knowledge-Based Systems'
+paperurl: 'https://doi.org/10.1016/j.knosys.2018.08.004'
+citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper is about stabilizing WGAN by Lp norm.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Recommended Bibtex citation](https://dblp.uni-trier.de/rec/bibtex/journals/kbs/ZhouZL18)
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
