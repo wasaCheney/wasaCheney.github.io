@@ -12,5 +12,5 @@ citation: 'https://dblp.uni-trier.de/rec/bibtex/journals/kbs/ZhouZL18' #'Your Na
 This paper is about stabilizing WGAN by Lp norm.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-[Recommended bibtex citation](https://dblp.uni-trier.de/rec/bibtex/journals/kbs/ZhouZL18)
+[Recommended citation bibtex](https://dblp.uni-trier.de/rec/bibtex/journals/kbs/ZhouZL18)
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
