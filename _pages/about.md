@@ -14,7 +14,7 @@ During 2019-nCov, we students need to soho for 1-3 months! Hope everything goes 
 
 These days I am struggling for my Ph.D. thesis.
 ======
-Deep Generative models and its application on remote sensing images.
+Deep Generative Models and Its Application on Remote Sensing Images.
 
 Getting started
 ======
