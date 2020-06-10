@@ -26,12 +26,12 @@ News
 Biography
 =========
 - 2016-03 - 2020-07, PhD in Statistics, Xi'an Jiaotong Univeristy, Supervisor Prof. Jiangshe Zhang
-- 2014-09 - 2016-01, MSc-phase in Applied Mathematics, Xi'an Jiaotong University, Supervisor Pro. Jiangshe Zhang
+- 2014-09 - 2016-01, MSc in Applied Mathematics, Xi'an Jiaotong University, Supervisor Pro. Jiangshe Zhang
 - 2010-09 - 2014-06, BSc in Mathematics and Applied Mathematics, Xi'an Jiaotong University
 
 
 Service
-===============
+=======
 - Reviewer for IEEE Transactions on Image Processing
 - Reviewer for Knowledge-Based Systems
 
