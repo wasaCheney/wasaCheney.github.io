@@ -8,23 +8,38 @@ redirect_from:
   - /about.html
 ---
 
+Research Interests
+==================
+My current research focuses on Deep Generative Models and Bayesian Modeling,
+with applications to object detection and other enjoyable in computer vision.
+
+Recently, I am trying to understand the weakly supervised object
+detection problem through the generative perspective.
+
+
 News
-=======================
-During 2019-nCov, we students need to soho for 1-3 months! Hope everything goes well!
+====
+- 2020-06-10 Waiting for the final PhD defense!
+- During covid-19, we students need to soho for 1-3 months. Hope everything goes well.
 
-These days I am struggling for my Ph.D. thesis.
-======
-Deep Generative Models and Its Application on Remote Sensing Images.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Biography
+=========
+- 2016-03 - 2020-07, PhD in Statistics, Xi'an Jiaotong Univeristy, Supervisor Prof. Jiangshe Zhang
+- 2014-09 - 2016-01, MSc-phase in Applied Mathematics, Xi'an Jiaotong University, Supervisor Pro. Jiangshe Zhang
+- 2010-09 - 2014-06, BSc in Mathematics and Applied Mathematics, Xi'an Jiaotong University
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
+Service
+===============
+- Reviewer for IEEE Transactions on Image Processing
+- Reviewer for Knowledge-Based Systems
+
+
+Wonderful Links
+---------------
+My PhD supervisor, [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang/english)
+
+[Prof. Chunxia Zhang](http://gr.xjtu.edu.cn/web/cxzhang/1)
+
+[Associate Prof. Junmin Liu](http://gr.xjtu.edu.cn/web/junminliu)

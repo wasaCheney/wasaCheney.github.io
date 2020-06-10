@@ -18,8 +18,11 @@ number for a special character, and then pressing `alt + X`
 together. The number would be transformed into the corresponding
 character by LO automatically. Awesome!
 
-I also found another command `ctrl + shift + U + xxx`, where
-`xxx` is the unicod number, but it does not work for me.
+I also found another command `ctrl + shift + U + xxxx`, where
+`xxxx` is the unicode number, but it does not work for me.
 
 Look for the unicode-character table? Try the
 [wiki page](https://en.wikipedia.org/wiki/List_of_Unicode_characters)!
+
+P.S., if in the VIM environment, try `ctrl + V` and then `U`, final `xxxx`,
+such as ≡ ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▉ ▐ ░ ▒ ┑┕ ┠
