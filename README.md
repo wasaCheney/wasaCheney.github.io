@@ -4,6 +4,8 @@
 
 *wasa* is my nickname used for some social network accounts
 
-Go to my homepage [https://wasaCheney.github.io](https://wasaCheney.github.io),
+Please go to my GitHub homepage [https://wasaCheney.github.io](https://wasaCheney.github.io)
+for more details.
 
-which is based on [Academicpages](https://github.com/academicpages/academicpages.github.io).
+-----
+This repo is based on [Academicpages](https://github.com/academicpages/academicpages.github.io).
