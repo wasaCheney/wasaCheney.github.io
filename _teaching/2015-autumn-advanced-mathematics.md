@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-autumn-advanced-mathematics
 venue: "Department of Mathematics, Xi'an Jiaotong University"
-date: 2015-09
+date: 2015-09-01
 location: "Xi'an, China"
 ---
 

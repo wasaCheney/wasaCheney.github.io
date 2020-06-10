@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2017-autumn-modern-information-theory
 venue: "Department of Statistics, Xi'an Jiaotong University"
-date: 2017-09
+date: 2017-09-01
 location: "Xi'an, China"
 ---
 
