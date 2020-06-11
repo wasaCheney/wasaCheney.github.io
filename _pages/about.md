@@ -11,7 +11,7 @@ redirect_from:
 Research Interests
 ==================
 My current research focuses on Deep Generative Models and Bayesian Modeling,
-with applications to object detection and other enjoyable in computer vision.
+with applications to object detection and other enjoyable computer vision tasks.
 
 Recently, I am trying to understand the weakly supervised object
 detection problem through the generative perspective.
