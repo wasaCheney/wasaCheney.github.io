@@ -13,9 +13,10 @@ special characters in LibreOffice (LO).
 
 Unicode number method for special characters inputting
 ======
-All in all, the method is that first typing the unicode
-number for a special character, and then pressing `alt + X`
-together. The number would be transformed into the corresponding
+All in all, the method is that
+1. first typing the unicode number for a special character
+1. and then pressing `alt + X` together
+The number would be transformed into the corresponding
 character by LO automatically. Awesome!
 
 I also found another command `ctrl + shift + U + xxxx`, where
@@ -26,3 +27,15 @@ Look for the unicode-character table? Try the
 
 P.S., if in the VIM environment, try `ctrl + V` and then `U`, final `xxxx`,
 such as ≡ ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▉ ▐ ░ ▒ ┑┕ ┠
+
+
+3D effects in libreoffice draw
+======
+1. Import an image or draw a 2D shape;
+2. then right click, find the `convert` -> `To 3D` command
+3. then right click again, find `3D effects` to invoke the 3D effect panel.
+Adjust properties as you like (especially the depth)
+4. Of course, you could also adjust the color and transparency as usual
+
+"Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+Here is a visual effect ![draq_3d_demo](/images/libreofficedraw_3Deffect_demo.png)
