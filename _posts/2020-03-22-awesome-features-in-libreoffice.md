@@ -6,6 +6,7 @@ tags:
   - libreoffice
   - shortcuts
   - unicode
+  - 3D effects
 ---
 <!-- Description for link -->
 Today, I found some awesome shortcuts to insert
@@ -37,5 +38,4 @@ such as ≡ ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▉ ▐ ░ ▒ ┑┕ ┠
 Adjust properties as you like (especially the depth)
 4. Of course, you could also adjust the color and transparency as usual
 
-"Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 Here is a visual effect ![draq_3d_demo](/images/libreofficedraw_3Deffect_demo.png)
