@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- {% if author.googlescholar %} -->
 For full list of publications, please refer to <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- {% endif %} -->
 
 {% include base_path %}
 
