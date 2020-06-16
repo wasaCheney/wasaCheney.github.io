@@ -39,4 +39,4 @@ such as ≡ ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▉ ▐ ░ ▒ ┑┕ ┠
 Adjust properties as you like (especially the depth)
 4. Of course, you could also adjust the color and transparency as usual
 
-Here is a visual effect ![draq_3d_demo](images/libreofficedraw_3Deffect_demo.png)
+Here is a visual effect ![draq_3d_demo](/images/libreofficedraw_3Deffect_demo.png)

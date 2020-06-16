@@ -23,7 +23,7 @@ supervised counterpart. Moreover, when generalizing to a new dataset, the unsupe
 still performs better (or not worse at least) than its supervised counterpart."
 ---
 
-![perceppan](images/perceppan.png)
+![perceppan](/images/perceppan.png)
 
 Bibtex:
 ```

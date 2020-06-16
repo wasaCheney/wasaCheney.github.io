@@ -25,8 +25,8 @@ to hyperparameters than classical weight decay. Experiments on
 NWPUVHR-10 and DOTA data sets show that the proposed
 method is effective and works well with different object detectors.'
 ---
-
-![fisherreg](images/fisherreg.png)
+<!-- /images/... -->
+![fisherreg](/images/fisherreg.png)
 
 Bibtex:
 ```
