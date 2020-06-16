@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+{% include base_path %}
+
 {% if author.googlescholar %}
   <p>
     For full list of publications, please refer to
@@ -13,8 +16,6 @@ author_profile: true
     </u>
   </p>
 {% endif %}
-
-{% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
