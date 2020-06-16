@@ -1,6 +1,7 @@
 ---
 title: 'Awesome Features in Libreoffice'
 date: 2020-03-22
+collection: posts
 permalink: /posts/2020/03/awesome-features-in-libreoffice/
 tags:
   - libreoffice
@@ -38,4 +39,4 @@ such as ≡ ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▉ ▐ ░ ▒ ┑┕ ┠
 Adjust properties as you like (especially the depth)
 4. Of course, you could also adjust the color and transparency as usual
 
-Here is a visual effect ![draq_3d_demo](/images/libreofficedraw_3Deffect_demo.png)
+Here is a visual effect ![draq_3d_demo](images/libreofficedraw_3Deffect_demo.png)

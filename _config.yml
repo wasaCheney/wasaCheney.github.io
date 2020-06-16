@@ -84,7 +84,8 @@ author:
   avatar           : "profile-sunny-xi-an.jpg"
   bio              : "Ph.D. student in Statistics from Xi'an Jiaotong University"
   location         : "Shaanxi, Xi'an, China"
-  employer         :
+  locationurl      : "https://www.google.com/maps/place/Xi'an+Jiaotong+University/@34.250803,108.9815043,17z/data=!3m1!4b1!4m5!3m4!1s0x36637aa53ea91f53:0xd25558980247ee11!8m2!3d34.250803!4d108.983693"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Uz7s7hsAAAAJ&hl=en"
   email            : "zhoucslyx@gmail.com"
