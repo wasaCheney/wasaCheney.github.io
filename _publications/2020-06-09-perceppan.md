@@ -5,6 +5,7 @@ permalink: /publication/2020-06-09-perceppan
 date: 2020-06-09
 venue: 'Remote Sensing'
 paperurl: 'http://xxx.xxxx.xxx.xx'
+codeurl: 'https://github.com/wasaCheney/PercepPan'
 citation: 'Changsheng Zhou, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Rongrong Fei and Shuang Xu.
 &quot;PercepPan: Towards Unsupervised Pan-sharpening Based on Perceptual Loss.&quot;
 <i>Submitted to Remote Sensing</i>, under review, 2020, 0(0):1-22.'

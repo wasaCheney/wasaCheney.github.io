@@ -55,7 +55,7 @@ layout: default
           {% if page.venue and page.date %} <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p> {% endif %}
           {% if page.paperurl %} <a href="{{ page.paperurl }}"><u>[pdf]</u></a> {% endif %}
           {% if page.codeurl %} <a href="{{ page.codeurl }}"><u>[code]</u></a> {% endif %}
-        {% elif page.collection == 'posts' %}
+        {% elsif page.collection == 'posts' %}
           {% if page.date %}
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
           {% endif %}

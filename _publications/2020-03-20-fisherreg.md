@@ -5,7 +5,7 @@ permalink: /publication/2020-03-20-fisherreg
 date: 2020-03-20
 venue: 'IEEE Transactions on Geoscience Remote Sensing'
 paperurl: 'https://doi.org/10.1109/TGRS.2020.2983201'
-codeurl:
+codeurl: 'https://github.com/wasaCheney/FisherReg'
 citation: 'Changsheng Zhou, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Guang Shi, Junying Hu.
 &quot;Bayesian Transfer Learning for Object Detection in Remote Sensing Images.&quot;
 <i>IEEE Transactions on Geoscience Remote Sensing</i>, online, 2020, 0(0):1-15.'
