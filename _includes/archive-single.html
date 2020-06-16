@@ -34,7 +34,7 @@
       <h4 class="archive__item-title" itemprop="headline">
         {% if post.link %}
           <a href="{{ post.link }}">{{ post.citation }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-        {% elsif post.title == 'My Google Scholar' and author.googlescholar %}
+        {% elsif title == "My Google Scholar" and author.googlescholar %}
           <a href="{{ author.googlescholar }}" rel="permalink">{{ post.citation }}</a>
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.citation }}</a>
