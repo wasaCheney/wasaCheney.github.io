@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+=========
+* Ph.D in Statistics, Xi'an Jiaotong University, 2016.03 -- 2020.07
+* M.S. in Applied Mathematics, Xi'an Jiaotong University, 2014.09 -- 2016.01
+* B.S. in Mathematics and Applied Mathematics, Xi'an Jiaotong University, 2010.09 -- 2014.06
 
 Work experience
 ======
@@ -27,15 +27,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}

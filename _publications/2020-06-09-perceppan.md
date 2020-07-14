@@ -8,7 +8,7 @@ paperurl: 'http://xxx.xxxx.xxx.xx'
 codeurl: 'https://github.com/wasaCheney/PercepPan'
 citation: 'Changsheng Zhou, Jiangshe Zhang, Junmin Liu, Chunxia Zhang, Rongrong Fei and Shuang Xu.
 &quot;PercepPan: Towards Unsupervised Pan-sharpening Based on Perceptual Loss.&quot;
-<i>Submitted to Remote Sensing</i>, under review, 2020, 0(0):1-22.'
+<i>Submitted to Remote Sensing</i>, 2nd-round review, 2020, 0(0):1-22.'
 excerpt: "High resolution multispectral images usually are unavailable for pan-sharpening and
 the traditional perspective dealing with the issue is to degrade the original images into a lower
 resolution space for supervised training under the Wald's protocol.

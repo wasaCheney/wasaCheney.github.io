@@ -10,15 +10,19 @@ redirect_from:
 
 Research Interests
 ==================
-My current research focuses on Deep Generative Models and Bayesian Modeling,
-with applications to object detection and other enjoyable computer vision tasks.
+My current research focuses on Deep Generative Models and Bayesian Learning,
+with applications to object detection, image generation and other enjoyable computer vision tasks.
 
 Recently, I am trying to understand the weakly supervised object
 detection problem through the generative perspective.
 
+Fight for accurate, fast, robust/stable, low-cost (labour/material),
+interpretable, and general-purpose models.
+
 
 News
 ====
+- 2020-07-10 PhD defense, ✓!
 - 2020-06-10 Waiting for the final PhD defense!
 - During covid-19, we students need to soho for 1-3 months. Hope everything goes well.
 
@@ -26,7 +30,7 @@ News
 Biography
 =========
 - 2016-03 - 2020-07, PhD in Statistics, Xi'an Jiaotong Univeristy, Supervisor Prof. Jiangshe Zhang
-- 2014-09 - 2016-01, MSc in Applied Mathematics, Xi'an Jiaotong University, Supervisor Pro. Jiangshe Zhang
+- 2014-09 - 2016-01, MSc in Applied Mathematics, Xi'an Jiaotong University, Supervisor Prof. Jiangshe Zhang
 - 2010-09 - 2014-06, BSc in Mathematics and Applied Mathematics, Xi'an Jiaotong University
 
 

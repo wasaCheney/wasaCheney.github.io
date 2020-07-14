@@ -12,6 +12,7 @@ for more details.
 This repo is based on [Academicpages](https://github.com/academicpages/academicpages.github.io).
 
 Some key files:
+- The html use Liquid -> Jekyll as template language
 - `_config.yml`, personal information for the whole site, and display control of the sidebar is in file `_includes/author-profile.html`
 - `_publications/xxx.md` for publications details
 - `_pages/pulications.md` -> `_includes/archive-single.html` for publications-list page
