@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage!"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,6 +19,8 @@ detection problem through the generative perspective.
 Fight for accurate, fast, robust/stable, low-cost (labour/material),
 interpretable, and general-purpose models.
 
+Fight for Xy<sup>2</sup>!
+
 
 News
 ====
@@ -27,11 +29,12 @@ News
 - During covid-19, we students need to soho for 1-3 months. Hope everything goes well.
 
 
-Biography
+Experience
 =========
-- 2016-03 - 2020-07, PhD in Statistics, Xi'an Jiaotong Univeristy, Supervisor Prof. Jiangshe Zhang
-- 2014-09 - 2016-01, MSc in Applied Mathematics, Xi'an Jiaotong University, Supervisor Prof. Jiangshe Zhang
-- 2010-09 - 2014-06, BSc in Mathematics and Applied Mathematics, Xi'an Jiaotong University
+- 2020-09 -- Present, Postdoc, guess where
+- 2016-03 -- 2020-07, PhD in Statistics, Xi'an Jiaotong Univeristy, Supervisor [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang/english)
+- 2014-09 -- 2016-01, MSc in Applied Mathematics, Xi'an Jiaotong University, Supervisor Prof. Jiangshe Zhang
+- 2010-09 -- 2014-06, BSc in Mathematics and Applied Mathematics, Xi'an Jiaotong University
 
 
 Service
