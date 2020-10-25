@@ -32,7 +32,7 @@ News
 
 Experience
 =========
-- 2020-09 -- Present, Postdoc in Mathematics, Guangzhou University, co-advisor [Prof. Jigen Peng](http://maths.gzhu.edu.cn/info/1073/2327.htm)
+- 2020-10 -- Present, Postdoc in Mathematics, Guangzhou University, co-advisor [Prof. Jigen Peng](http://maths.gzhu.edu.cn/info/1073/2327.htm)
 - 2016-03 -- 2020-07, PhD in Statistics, Xi'an Jiaotong Univeristy, Supervisor [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang/english)
 - 2014-09 -- 2016-01, MSc in Applied Mathematics, Xi'an Jiaotong University, Supervisor Prof. Jiangshe Zhang
 - 2010-09 -- 2014-06, BSc in Mathematics and Applied Mathematics, Xi'an Jiaotong University
