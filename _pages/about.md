@@ -19,7 +19,7 @@ detection problem through the generative perspective.
 Fight for accurate, fast, robust/stable, low-cost (labour/material),
 interpretable, and general-purpose models.
 
-Xy<sup>2</sup>
+f: X &rarr; y<sup>2</sup>
 
 
 News
