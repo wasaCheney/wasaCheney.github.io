@@ -24,9 +24,10 @@ f: X &rarr; y<sup>2</sup>
 
 News
 ====
+- 2021-06-29 Two patent are granted
 - 2020-10-20 Postdoc, a new starting point
-- 2020-07-21 PhD degree, ✓!
-- 2020-07-10 PhD defense, ✓!
+- 2020-07-21 PhD degree, got
+- 2020-07-10 PhD defense, passed
 - During covid-19, we students need to soho for 1-3 months. Hope everything goes well.
 
 
