@@ -24,7 +24,7 @@ f: X &rarr; y<sup>2</sup>
 
 News
 ====
-- 2021-06-29 Two patent are granted
+- 2021-06-29 Two patents are granted (Bayesian transfer learning / Attention global content for optical remotely sensed images)
 - 2020-10-20 Postdoc, a new starting point
 - 2020-07-21 PhD degree, got
 - 2020-07-10 PhD defense, passed
