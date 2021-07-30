@@ -19,3 +19,6 @@ creator, date, pages, page size, file size, etc.
 
 `pdfjam <pdf_file> begin-end` will extract the specific
 pages with page number from `begin` to `end`.
+
+Actually, there is a easy-to-use online tool, [pdf2go](https://www.pdf2go.com/),
+with many helpful functions about pdf.
