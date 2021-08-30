@@ -43,6 +43,7 @@ Service
 =======
 - Reviewer for IEEE Transactions on Image Processing
 - Reviewer for Knowledge-Based Systems
+- Reviewer for Adaptive Behavior
 
 
 Wonderful Links
