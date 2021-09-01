@@ -41,4 +41,12 @@ Ignorability
 - a strong ignorability, Z and {Yi(1), Yi(0)} are independent
 - a general ignorability, Z and {Yi(1), Yi(0)} are independent conditioned on X???
 - the effect of some causation (could be verified), the causation of some effect (could be assumed or explored)
-- 
+- ACE = E[Y(1) - Y(0)] = E[Y(1)] - E[Y(0)] ?=? E[E[Y(1)|X]] - E[E[Y(0)|X]] = E[E[Y(1)|X, Z=1]] - E[E[Y(0)|X, Z=0]] = E[E[Y|X, Z=1]] - E[E[Y|X, Z=0]]
+- propensity score, e(X) = p(Z=1|X)
+
+Causal Diagram
+============
+- Directed Acyclic Graph (DAG), parents, children
+- Do operator, means intervention: In DAG, do(Xi)=xi means cut off all edges pointing to Xi and let Xi = xi as a constant
+  usually, p(...|do(Xi)=xi) != p(...|Xi=xi)
+- RCM <=> PCM, p(Y| do(Z) = z) = p(Y(z))
