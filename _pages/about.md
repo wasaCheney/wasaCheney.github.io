@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am Changsheng (pronouned like /ʧɑ:n'ʃᴧɳ/), currently a postodc fellow in Guangzhou University, Guangzhou, China.
+
 Research Interests
 ==================
 My current research focuses on Deep Generative Models and Bayesian Learning,
