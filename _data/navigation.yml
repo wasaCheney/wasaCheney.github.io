@@ -2,6 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Projects"
+    url: /projects/
+    
+  - title "Group"
+    url: /group/
 
   - title: "Talks"
     url: /talks/    
