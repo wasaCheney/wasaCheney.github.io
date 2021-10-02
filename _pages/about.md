@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am Changsheng (pronouned like /ʧɑ:n'ʃᴧɳ/), currently a postodc fellow in Guangzhou University, Guangzhou, China.
+I am Changsheng (pronouned like /ʧɑ:n'ʃᴧɳ/), currently a postodc researcher in Guangzhou University, Guangzhou, China.
 
 Research Interests
 ==================
 My current research focuses on Deep Generative Models and Bayesian Learning,
 with applications to object detection, image generation and other enjoyable computer vision tasks.
-
-Recently, I am trying to understand the weakly supervised object
-detection problem through the generative perspective.
-
-Fight for accurate, fast, robust/stable, low-cost (labour/material),
-interpretable, and general-purpose models.
+At present, we aims to develop accurate, fast, robust/stable, low-cost (labour/material),
+explainable, and general-purpose models and algorithms.
 
 f: X &rarr; y<sup>2</sup>
+
+Recently, I am trying to understand weakly supervised object
+detection problem through the generative perspective.
 
 
 News
