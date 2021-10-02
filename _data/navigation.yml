@@ -6,7 +6,7 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title "Group"
+  - title: "Group"
     url: /group/
 
   - title: "Talks"
