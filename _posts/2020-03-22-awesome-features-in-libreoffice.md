@@ -40,3 +40,8 @@ Adjust properties as you like (especially the depth)
 4. Of course, you could also adjust the color and transparency as usual
 
 Here is a visual effect ![draq_3d_demo](/images/libreofficedraw_3Deffect_demo.png)
+
+Font replacement in LO and MSOFFICE
+=====
+- Liberation Serif vs Times New Roman
+- FondolSong vs Song
