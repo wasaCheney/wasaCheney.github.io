@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Changsheng (pronouned like /ʧɑ:n'ʃᴧɳ/), currently a postodc researcher in Guangzhou University, Guangzhou, China.
+I am Changsheng (pronouned like /ʧɑ:n'ʃən/), currently a postodc researcher in Guangzhou University, Guangzhou, China.
 
 Research Interests
 ==================
