@@ -10,14 +10,19 @@ redirect_from:
 
 I am Changsheng (pronouned like /ʧɑ:n'ʃən/), currently a postodc researcher in Guangzhou University, Guangzhou, China.
 
+Brief Bio
+=========
+Changsheng Zhou received the B.S. degree in applied mathematics and the Ph.D. degree in statistics from Xi'an Jiaotong University, Xi'an, China, in 2014 and 2020, respectively. Currently, he is a postdoctoral researcher at the School of Mathematics and Information Science in Guangzhou University, Guangzhou, China.
+
 Research Interests
 ==================
-My current research focuses on Deep Generative Models and Bayesian Learning,
-with applications to object detection, image generation and other enjoyable computer vision tasks.
-At present, we aims to develop accurate, fast, robust/stable, low-cost (labour/material),
-explainable, and general-purpose models and algorithms.
-
 f: X &rarr; y<sup>2</sup>
+
+The current research focuses on generative models, Bayesian learning, and deep learning,
+with applications to generic and remote sensing images.
+
+Shortly, I aims to develop accurate, fast, robust/stable, low-cost (labour/material),
+explainable, and general-purpose models and algorithms.
 
 Recently, I am trying to understand weakly supervised object
 detection problem through the generative perspective.
