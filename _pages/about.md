@@ -39,6 +39,7 @@ News
 
 Experience
 =========
+- 2021-12 -- Present, Visiting Scholar in Computer Science, University of Copenhagen, co-advisor [Prof. Christian Igel](https://christian-igel.github.io/)
 - 2020-10 -- Present, Postdoc in Mathematics, Guangzhou University, co-advisor [Prof. Jigen Peng](http://maths.gzhu.edu.cn/info/1073/2327.htm)
 - 2016-03 -- 2020-07, PhD in Statistics, Xi'an Jiaotong Univeristy, Supervisor [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang/english)
 - 2014-09 -- 2016-01, MSc in Applied Mathematics, Xi'an Jiaotong University, Supervisor Prof. Jiangshe Zhang
