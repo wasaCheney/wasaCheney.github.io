@@ -30,6 +30,7 @@ detection problem through the generative perspective.
 
 News
 ====
+- 2022-
 - 2021-06-29 Two patents are granted (Bayesian transfer learning / Attention global content for optical remotely sensed images)
 - 2020-10-20 Postdoc, a new starting point
 - 2020-07-21 PhD degree, got
@@ -48,16 +49,21 @@ Experience
 
 Service
 =======
-- Reviewer for IEEE Transactions on Image Processing
-- Reviewer for Knowledge-Based Systems
-- Reviewer for Adaptive Behavior
+- Reviewer
+  - IEEE Transactions on Image Processing
+  - IEEE Geoscience and Remote Sensing Letters
+  - Knowledge-Based Systems
+  - Adaptive Behavior
 
 
 Wonderful Links
 ---------------
-My Postdoc co-advisor, [Prof. Jigen Peng (GZHU)](http://maths.gzhu.edu.cn/info/1073/2327.htm)
 
-My PhD supervisor, [Prof. Jiangshe Zhang (XJTU)](http://gr.xjtu.edu.cn/web/jszhang/english)
+Visiting Postdoc advisor, [Prof. Christian Igel (UCPH)](https://christian-igel.github.io/)
+
+Postdoc advisor, [Prof. Jigen Peng (GZHU)](http://maths.gzhu.edu.cn/info/1073/2327.htm)
+
+PhD supervisor, [Prof. Jiangshe Zhang (XJTU)](http://gr.xjtu.edu.cn/web/jszhang/english)
 
 [Prof. Shigang Yue (University of Lincoln)](http://www.ciluk.org/syue/index.html)
 
