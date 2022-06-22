@@ -30,7 +30,7 @@ detection problem through the generative perspective.
 
 News
 ====
-- 2022-
+- 2022-06-22 The 71th Postdoc Fund
 - 2021-06-29 Two patents are granted (Bayesian transfer learning / Attention global content for optical remotely sensed images)
 - 2020-10-20 Postdoc, a new starting point
 - 2020-07-21 PhD degree, got
@@ -40,10 +40,10 @@ News
 
 Experience
 =========
-- 2021-12 -- Present, Visiting Scholar in Computer Science, University of Copenhagen, co-advisor [Prof. Christian Igel](https://christian-igel.github.io/)
-- 2020-10 -- Present, Postdoc in Mathematics, Guangzhou University, co-advisor [Prof. Jigen Peng](http://maths.gzhu.edu.cn/info/1073/2327.htm)
-- 2016-03 -- 2020-07, PhD in Statistics, Xi'an Jiaotong Univeristy, Supervisor [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang/english)
-- 2014-09 -- 2016-01, MSc in Applied Mathematics, Xi'an Jiaotong University, Supervisor Prof. Jiangshe Zhang
+- 2021-12 -- Present, Visiting Scholar in Computer Science, University of Copenhagen, advisor [Prof. Christian Igel](https://christian-igel.github.io/)
+- 2020-10 -- Present, Postdoc in Mathematics, Guangzhou University, advisor [Prof. Jigen Peng](http://maths.gzhu.edu.cn/info/1073/2327.htm)
+- 2016-03 -- 2020-07, PhD in Statistics, Xi'an Jiaotong Univeristy, supervisor [Prof. Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang/english)
+- 2014-09 -- 2016-01, MSc in Applied Mathematics, Xi'an Jiaotong University, supervisor Prof. Jiangshe Zhang
 - 2010-09 -- 2014-06, BSc in Mathematics and Applied Mathematics, Xi'an Jiaotong University
 
 
@@ -60,6 +60,8 @@ Wonderful Links
 ---------------
 
 Visiting Postdoc advisor, [Prof. Christian Igel (UCPH)](https://christian-igel.github.io/)
+And working close to [Rasmus Fensholt](https://ign.ku.dk/ansatte/geografi/?pure=da/persons/24386)
+[Postdoc Stefan Oehmcke](https://scholar.google.de/citations?user=k9EWJmcAAAAJ&hl=de) and [Ankit Kariryaa](https://scholar.google.de/citations?user=lwSTZGgAAAAJ&hl=en)
 
 Postdoc advisor, [Prof. Jigen Peng (GZHU)](http://maths.gzhu.edu.cn/info/1073/2327.htm)
 
