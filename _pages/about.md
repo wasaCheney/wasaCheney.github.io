@@ -59,9 +59,7 @@ Service
 Wonderful Links
 ---------------
 
-Visiting Postdoc advisor, [Prof. Christian Igel (UCPH)](https://christian-igel.github.io/)
-And working close to [Rasmus Fensholt](https://ign.ku.dk/ansatte/geografi/?pure=da/persons/24386)
-[Postdoc Stefan Oehmcke](https://scholar.google.de/citations?user=k9EWJmcAAAAJ&hl=de) and [Ankit Kariryaa](https://scholar.google.de/citations?user=lwSTZGgAAAAJ&hl=en)
+Visiting Postdoc advisor, [Prof. Christian Igel (UCPH)](https://christian-igel.github.io/), Working close to [Prof. Rasmus Fensholt](https://ign.ku.dk/ansatte/geografi/?pure=da/persons/24386), [Postdoc Stefan Oehmcke](https://scholar.google.de/citations?user=k9EWJmcAAAAJ&hl=de) and [Postdoc Ankit Kariryaa](https://scholar.google.de/citations?user=lwSTZGgAAAAJ&hl=en)
 
 Postdoc advisor, [Prof. Jigen Peng (GZHU)](http://maths.gzhu.edu.cn/info/1073/2327.htm)
 
