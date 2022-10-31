@@ -17,5 +17,6 @@ Some key files:
 - `_config.yml`, personal information for the whole site, and display control of the sidebar is in file `_includes/author-profile.html`
 - `_publications/xxx.md` for publications details
 - `_pages/pulications.md` -> `_includes/archive-single.html` for publications-list page
+- `_pages/projects.md` for the granted projects page
 - `_pages/about.md` for the information on the homepage, such as news and research interest
 - `_layouts/single.html` for details-display page
