@@ -74,4 +74,4 @@ PhD supervisor, [Prof. Jiangshe Zhang (XJTU)](http://gr.xjtu.edu.cn/web/jszhang/
 
 [Prof. Chunxia Zhang (XJTU)](http://gr.xjtu.edu.cn/web/cxzhang/1)
 
-[Associate Prof. Junmin Liu (XJTU)](http://gr.xjtu.edu.cn/web/junminliu)
+[Prof. Junmin Liu (XJTU)](http://gr.xjtu.edu.cn/web/junminliu)
