@@ -11,8 +11,9 @@ location: "Guangzhou, China"
 This is some courses planned to be offered, 
 - Statistical Learning
 - Probabilistical Graphical Models (PGM)
-- Causal Inference
 - Information Theory
+- Causal Inference
+
 
 Instructor
 ======
