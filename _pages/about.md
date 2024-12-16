@@ -29,7 +29,9 @@ explainable, and general-purpose models and algorithms.
 
 News
 ====
-- 2023 two papers accepted by KBS
+- 2024-12, Several graduate positions are available in deep learning, remote sensing images, medical imges, etc. Send me email please if interested
+- 2024-07, one paper published by KBS
+- 2023-10, one paper accepted by KBS
 - 2022-10 Guangdong NSF Youth Program
 - 2022-08 NSFC Youth Program
 - 2022-06-22 The 71th Postdoc Fund
@@ -42,6 +44,8 @@ News
 
 Experience
 =========
+- 2024-12, Advisor for Graduate
+- 2024-08, Visiting Scholar in Department of Mathematics, University of Macau, Yingzhi Liu
 - 2024-05 -- present, Assistant Professor in Statistics, Guangdong University of Technology [GDUT](https://math.gdut.edu.cn/)
 - 2021-03 -- 2022-09, Guest researcher in Computer Science, University of Copenhagen, advisor [Prof. Christian Igel](https://christian-igel.github.io/)
 - 2020-10 -- 2024-05, Postdoc in Mathematics, Guangzhou University, advisor [Prof. Jigen Peng](http://maths.gzhu.edu.cn/info/1073/2327.htm)
