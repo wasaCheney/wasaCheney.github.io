@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Changsheng (pronouned like /ʧɑ:n'ʃən/), currently working in Guangdong University of Technology, Guangzhou, China. Contact me by email `chsh_zh [at] gdut [dot] edu [dot] cn` or `zhoucslyx [at] email [dot] com`
+I am Changsheng (pronouned like /ʧɑ:n'ʃən/), currently working in Guangdong University of Technology, Guangzhou, China. Contact me by email `chsh_zh [at] gdut [dot] edu [dot] cn` or `zhoucslyx [at] gmail [dot] com`
 
 Brief Bio
 =========
