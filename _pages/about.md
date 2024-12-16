@@ -29,7 +29,7 @@ explainable, and general-purpose models and algorithms.
 
 News
 ====
-- 2024-12, Several graduate positions are available in deep learning, remote sensing images, medical imges, etc. Send me email please if interested
+- Several graduate positions are available in deep learning, remote sensing images, medical imges, etc. Send me email please if interested
 - 2024-07, one paper published by KBS
 - 2023-10, one paper accepted by KBS
 - 2022-10 Guangdong NSF Youth Program
