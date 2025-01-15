@@ -72,8 +72,6 @@ Postdoc advisor, [Prof. Jigen Peng (GZHU)](http://maths.gzhu.edu.cn/info/1073/23
 
 PhD supervisor, [Prof. Jiangshe Zhang (XJTU)](http://gr.xjtu.edu.cn/web/jszhang/english)
 
-[Prof. Shigang Yue (University of Lincoln)](http://www.ciluk.org/syue/index.html)
-
 [Prof. Haiyang Li (GZHU)](http://maths.gzhu.edu.cn/info/1073/2272.htm)
 
 [Prof. Chunxia Zhang (XJTU)](http://gr.xjtu.edu.cn/web/cxzhang/1)
